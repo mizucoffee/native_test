@@ -1,0 +1,7 @@
+{
+    "name": "native_test",
+    "description": "Native Test",
+    "path": "/path/to/test.py",
+    "type": "stdio",
+    "allowed_extensions": [ "native_test@mizucoffee.net" ]
+}

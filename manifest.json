@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Native Test",
+  "version": "1.0",
+  "description": "connectNative test",
+  "applications": {
+    "gecko": {
+      "id": "native_test@mizucoffee.net",
+      "strict_min_version": "50.0"
+    }
+  },
+  "background": {
+    "scripts": ["background.js"]
+  },
+  "permissions": ["nativeMessaging"],
+
+  "browser_action": {
+    "default_icon": "border-48.png"
+  }
+}
