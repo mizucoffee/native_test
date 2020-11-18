@@ -1,3 +1,3 @@
 @echo off
 
-python -u "c:\\path\\to\\test.py"
+python -u "C:\\Users\\mizucoffee\\working_dir\\native_test\\test.py"

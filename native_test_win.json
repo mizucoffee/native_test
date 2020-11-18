@@ -1,0 +1,7 @@
+{
+    "name": "native_test",
+    "description": "Native Test",
+    "path": "C:\\path\\to\\test.bat",
+    "type": "stdio",
+    "allowed_extensions": [ "native_test@mizucoffee.net" ]
+}
